@@ -31,7 +31,7 @@ To compile a `file.cpp` and run the output file, follow these steps:
 2. Compile the `file.c` using a C compiler (replace `file` with the actual filename):
 
     ```bash
-    gcc file.cpp -o output
+    gcc file.c -o output
     ```
 
     This command compiles `file.c` and creates an executable named `output`.
