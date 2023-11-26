@@ -20,12 +20,6 @@ Follow the steps below to get a copy of this project up and running on your loca
     git clone https://github.com/manavtore/CCA.git
     ```
 
-4. Change into the project directory:
-
-    ```bash
-    cd CCA
-    ```
-
 To compile a `file.cpp` and run the output file, follow these steps:
 
 1. Navigate to the `src` directory:
