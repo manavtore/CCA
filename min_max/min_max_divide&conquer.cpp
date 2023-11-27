@@ -40,7 +40,7 @@ int main() {
 
     vector<int> numbers(n);
 
-    cout << "Enter " << n << " numbers: ";
+    cout << "Enter " << n << " numbers separated by spaces: ";
     for (int i = 0; i < n; i++) {
         cin >> numbers[i];
     }
@@ -53,4 +53,5 @@ int main() {
 
     return 0;
 }
+
 
